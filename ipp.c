@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-#include "/home/ubuntu/pjojectA/ipp.h"
+#include "ipp.h"
 //1
 HorseList initHorseList(){
     HorseList list;
